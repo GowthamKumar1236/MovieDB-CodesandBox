@@ -1,0 +1,18 @@
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.popular-movies-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.list-items-container {
+  width: 100%;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}

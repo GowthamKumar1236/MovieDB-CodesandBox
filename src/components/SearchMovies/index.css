@@ -1,0 +1,37 @@
+.no-view-container,
+.loader-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.heading {
+  font-family: 'Roboto';
+  font-size: 35px;
+  color: #000000;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.try-text {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #242323;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.list-items-container {
+  width: 100%;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.search-results-container {
+  display: flex;
+  flex-direction: column;
+}

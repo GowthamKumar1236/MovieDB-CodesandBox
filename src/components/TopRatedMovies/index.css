@@ -1,0 +1,18 @@
+.list-items-container {
+  width: 100%;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.top-rated-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.loader-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}

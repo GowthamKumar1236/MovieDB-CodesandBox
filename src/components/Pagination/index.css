@@ -1,0 +1,28 @@
+.page-alignment {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.page-no-text {
+  font-family: 'Roboto';
+  font-size: 18px;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: #03b3e3;
+  font-weight: bold;
+}
+
+.navigate-buttons {
+  background-color: #032541;
+  font-family: 'Roboto';
+  font-weight: 600;
+  font-size: 12px;
+  color: #ffffff;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  outline: none;
+  width: 60px;
+  height: 40px;
+}
